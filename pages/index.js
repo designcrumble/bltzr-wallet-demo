@@ -41,16 +41,16 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://metatags.io/" />
+        <meta property="og:url" content="https://bltzr-wallet-demo-131n.vercel.app/" />
         <meta property="og:title" content="Wallet Experiment for Bltzr by KC" />
         <meta property="og:description" content="New way to onboard the next million users to Web3" />
-        <meta property="og:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png" />
+        <meta property="og:image" content="https://bltzr-wallet-demo-131n.vercel.app/social.png" />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://metatags.io/" />
+        <meta property="twitter:url" content="https://bltzr-wallet-demo-131n.vercel.app/" />
         <meta property="twitter:title" content="Wallet Experiment for Bltzr by KC" />
         <meta property="twitter:description" content="New way to onboard the next million users to Web3" />
-        <meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png" />
+        <meta property="twitter:image" content="https://bltzr-wallet-demo-131n.vercel.app/social.png" />
       </Head>
 
       <main className={styles.main}>
