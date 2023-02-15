@@ -9,7 +9,7 @@ import Slide6 from "./Slides/Slide6";
 
 const Slider = ({ }) => {
     const [currentSlide, setCurrentSlide] = useState(1);
-    const slides = [<Slide1 />, <Slide2 />, <Slide3 />, <Slide4 />, <Slide5 />, <Slide6 />];
+    const slides = [<Slide1 key={1} />, <Slide2 key={2} />, <Slide3 key={3} />, <Slide4 key={1} />, <Slide5 key={4} />, <Slide6 key={5} />];
     useEffect(() => {
         gsap.fromTo(
             ".slide",
