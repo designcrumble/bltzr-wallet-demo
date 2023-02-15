@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "gsap": "^3.11.4",
+    "jspdf": "^2.5.1",
     "next": "13.1.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "sass": "^1.58.1",
+    "split-type": "^0.3.3",
+    "splittext": "^2.0.0"
   },
   "devDependencies": {
     "eslint": "8.34.0",
